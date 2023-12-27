@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L91Zh64J9aBwH8mRZPQ09CixYCtCH5TOpKetJGhWhKCXhKbWJlnAOPkXFc8nHbNmp+ldbQ2l6hCgw/ReebjBtg==",
+  "success": true,
+  "projectFilePath": "D:\\Document\\AsteriodVentureTask\\E-Commerce\\Server\\E-Commerce\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bidur\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\bidur\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\bidur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

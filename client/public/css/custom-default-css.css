@@ -1,0 +1,44 @@
+label{
+    color:navy !important;
+}
+
+.custom-select-small{
+    width: 300px;
+}
+
+.custom-select-medium{
+    width: 300px;
+}
+
+.custom-select-large{
+    width: 500px;
+}
+
+
+.custom-div-small{
+    width: 500px;
+}
+
+Button{
+    color:white !important;
+    /*background-color: #3e8ec0 !important;*/
+    background-color: #3e8ec0 !important;
+}
+
+
+ant-input:focus {
+    border-color: red !important;
+    box-shadow: 0 0 0 2px rgba(82, 196, 26, 0.2) !important;
+  }
+
+.custom-form .ant-form-item-has-error .ant-input:focus,
+.custom-form .ant-form-item-has-error .ant-select-selection:focus,
+.custom-form .ant-form-item-has-error .ant-picker-input:focus {
+  border-color: #f5222d !important;
+  box-shadow: 0 0 0 2px rgba(245, 34, 45, 0.2) !important;
+}
+
+
+.reduceGap .ant-form-item {
+    margin: 180px; /* Adjust this value to your desired spacing */
+  }
